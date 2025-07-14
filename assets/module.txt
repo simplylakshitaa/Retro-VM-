@@ -1,0 +1,982 @@
+    CYBER SECURITY AWARENESS HANDBOOK
+
+
+
+
+
+CISO JIL
+INFORMATION TECHNOLOGY LIMITED
+
+ABOUT THE HANDBOOK
+
+Information & Communication Technology has become an integral part of our day to day life. It has changed the way we connect with friends, find jobs, find matches for marrying, run businesses, play games, do shopping and so on. With the cheap availability of broadband and smartphones, almost everyone has access to the cyber space, connecting virtually to millions of online users across the globe. Increasing use of cyber space has also made us vulnerable to cybercrime threats. A minor lapse/negligence in managing our digital life can open the doors for cybercrimes and hence can lead to financial loss, damage to reputation, harassment etc. So, we must be vigilant and careful while connecting digitally to the outside world whether for financial transactions, social networking, playing games or searching things on the internet etc.
+ The information provided in this handbook is intended to create awareness among citizens about various cyber threats that can impact them and provide some tips to safeguard themselves against cybercrimes.
+The initial part of the booklet depicts the different types of cybercrimes being reported these days, categorized as per their modus operandi. For cybercrime of each modus operandi, we have given its brief description in the box at the top. Below that, is a pictorial representation of how cyber criminals commit that particular cybercrime on the victim. We have tried to keep it simple so that even a common man can understand it. At the bottom of the page are the tips/possible ways by which one can avoid the particular cybercrime/fraud.
+There might be certain overlapping tricks found in the various types of cybercrimes explained in the handbook. Still they have been discussed separately because cyber criminals apply some common tricks with very subtle differences because of which many people become victims.
+As it is not possible to cover all the different modus operandi in a small handbook, hence, we have provided general tips for ensuring one's safety in cyber space towards the end of the booklet. People, who do not have time to read each modus operandi in detail, are advised to at least go through these general tips and follow them to prevent themselves from becoming a victim of cybercrime.
+
+TABLE OF CONTENTS
+Social Engineering Frauds
+* CVV/OTP Sharing Fraud
+* UPI Phishing Fraud
+* Fraud by Request Money QR Code/Link on Google Pay/PhonePe/Paytm
+* Fraud through Google Docs App
+* Fraud using Olx/E-commerce Platforms
+* Fraud through Fake Cashback Offers
+* Fraud through Screen Sharing Apps
+* SIM Card Swapping Fraud
+Financial Frauds using Social Media Platforms
+* Fraud using Fake Social Media Account
+* Sextortion on Facebook
+* Catfishing
+Other Cyber Crimes using Social Media Platforms
+* Harassment through Fake Social Media Profiles
+* Cyber Bullying
+* Cyber Stalking
+Other Cyber Crimes/Frauds
+* ATM/Debit Card Cloning
+* Edited Google Customer Care number Fraud
+* Ransomware Attacks
+* Juice Jacking
+* Lottery Fraud/ Nigerian Fraud
+* Online Job Fraud
+* Computer or Device Hacking
+* Mobile Application Fraud
+Cyber Safety Tips for Children, Parents and Women General Cyber Safety Tips
+How to make a Complaint to Police
+
+CVV/OTP SHARING FRAUD
+
+Cyber criminals posing themselves as bank /RBI officials call people and tell them that their ATM card has been blocked or their KYC (Know Your Customer) is not updated or their Aadhaar is not linked to their bank account & hence their account will be blocked. Then on the pretext of updating the KYC/linking bank account to Aadhaar or for resuming the services of ATM card/activation of new ATM card asks for details related to victim's bank account like ATM card number, CVV number, OTP etc. After these details are shared by victim, money is siphoned off from the victim's bank account.
+
+
+On the pretext of KYC/Aadhaar update or activation of new ATM card, fraudsters ask for ATM card number & OTP
+
+
+
+
+Fraudsters call impersonating as bank/RBI officials
+
+
+
+OR
+
+
+
+
+
+
+
+
+
+
+
+
+Victim
+
+
+
+
+
+Victim shares ATM card
+no	Victim shares CVV no
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+
+Fraudsters transfer the money to e- wallet or UPI accounts or do shopping immediately
+
+
+Victim's bank account
+
+
+Victim shares OTP received
+on his mobile
+
+
+
+> Remember bank never asks for card number/CVV number/OTP.
+> Never share the ATM card number, CVV, OTP or any other confidential banking credentials with anyone over a phone call/SMS/WhatsApp.
+> E-mail should not be shared as this may lead to activation of Internet banking by cyber criminals, leading to siphoning off of one's money.
+
+
+
+
+
+
+
+
+
+
+Fraudsters call people on the pretext of updating KYC/Aadhaar & link his account to UPI by convincing him to share the alphanumeric link & OTP to a particular number associated to the bank of the victim
+
+   Victim duped of money in his bank account until he gets his account blocked
+
+
+
+
+
+
+
+Fraudsters get access to the UPI wallet which is linked to victim's bank account. Fraudsters set MPIN also
+
+
+
+
+
+
+
+
+Fraudsters use the victim's account as their own
+
+
+
+
+> Never share any OTP or link to any number given by someone calling oneself as bank /RBI officials.
+> People calling to customer care number of airlines/e-commerce entities obtained from Google search for rescheduling flights/getting refunds etc. have become victims of such frauds following their instructions. Never do that.
+
+PAY/PHONEPE/PAYTM
+
+
+
+
+
+
+
+
+Fraudster calls the vendors or any shopkeeper or businessman & requests for Google Pay or PhonePe registered mobile number for making payment
+
+
+
+Instead of recieving money, victim ends up paying to the fraudster via request money QR code or link
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Victim ignores the text message received on the registered phone number with one's bank account
+
+
+
+
+Apps for online forms like Google Docs etc. are widely used to collect data. Fraudsters take advantage of such applications and misguide the victim to fill or submit his/her confidential bank related data like ATM number, UPI PIN, password etc. As soon as they fill up the form and submit their data, it is directly transferred to the creator of the form.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Cyber criminals send a link for Google Docs form.
+They mislead you by writing it is for money refund
+
+
+
+
+
+Cyber criminals misguide the victim to fill or submit his/her confidential bank related data like ATM number, UPI PIN, passwords etc.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Cyber fraudster then siphons off money from the victim's bank account using the credentials
+ 
+As soon as the victim submits the form, confidential data is received by the cyberfraudster
+
+
+
+
+Cyber fraudster uses the e-commerce platforms like Olx/Quikr/Facebook for giving fake advertisements to sell commodity at lucrative prices. When someone intends to buy, cyber fraudster asks for advance payment in the form of packaging/transportation/registration charges etc. Buyer pays the money believing him/her to be a real seller and the fraudster disappears with the money. Frauds are also committed by cyber criminals posing themselves as buyers to real sellers. In this modus operandi, cyber criminals get the seller's account debited on the pretext of paying advance money by sending request money link/QR code instead of the credit link/QR code.
+
+
+
+
+
+
+
+
+Army/para-military force personnel upload commodity (vehicle/fridge
+/mobile phone etc.) to be sold on Olx
+/Quikr/Facebook etc.
+
+Cyber criminals contact these personnel & get their id proof, canteen smart card and other documents on the pretext of buying the advertised item
+
+Fraudsters then use the id proof & other documents of army/para-military force personnel as their own & post fake adv for sale on Olx
+/Quikr/Facebook etc.
+
+
+
+
+On the pretext of
+GST/transportation charge/packaging charge/registration charge
+/other advances, fraudster keeps duping the victim of his/her money until the victim realizes the fraud
+
+
+
+Buyer seeing attractive price himself contacts the fraudster assuming him as army/para-military force personnel
+
+
+> Never pay advance money without seeing the article physically and meeting the seller in person.
+> For receiving any type of payment via link or QR code, there is no need to enter MPIN or UPI PIN.
+> Always remember entering MPIN or UPI PIN is required only for paying money.
+
+
+
+
+
+OR
+
+Fraudsters lure victims by offering cashback offers
+
+OR
+
+
+
+Do not get confused by what is displayed here
+
+
+
+
+
+
+Instead of receiving money, victim himself/herself pays to the fraudster via a request money link or QR code after entering MPIN/UPI PIN
+
+
+Fraudsters mislead by editing the QR code by writing "payment refund", "money receive" etc. instead of "pay"
+
+Victims don't pay attention to what is written here
+
+
+> Never forward /click on any suspicious link from unverified sources.
+> Remember the thumb rule: You need to enter MPIN or UPI PIN only for debiting money from your account; it is never required for receiving money.
+
+
+
+
+
+
+AnyDesk
+
+
+OR
+People contact fake customer care number of bank or e-commerce
+platforms after searching it
+
+from Google search engine	OR
+
+Quick Support
+
+
+Victim sharesthe code with the fraudster
+
+
+Fraudster gets access to thevictim's phone & steals banking credentials
+
+
+
+Fraudster, posing as a customer care operator, asks the victim to install any of the above screen sharing apps and share the code to allow victim's screen access to help him
+
+
+
+Fraudster transfers money to his account without the need of
+sharing the OTP by the victim
+
+
+
+
+
+
+
+	 				
+
+Cyber criminals get a blank SIM card from retailer, whois also a gang member
+
+Cyber criminals call the victim pretending as customer care executive of a TSP, to initiate 4G SIM upgradation by themselves otherwise services of their SIM will get blocked
+
+In furtherance of their fraud, cyber criminals provide one SIM no. & ask the victim to send that SIM no. through SMS to customer care number to avail the services
+
+Victim forwards the SIM no. from his mobile phone considering the fraudster as genuine customer care operator of the TSP
+
+
+
+
+
+
+
+
+
+Now, the cyber criminal is able to access all the bank account details linked to the victim's mobile number and withdraws the money
+
+The TSP closes the services of victim's old SIM and issues the victim's mobile number to the blank SIM card
+
+
+> Never share any information related to your account and SIM over a phone call. The 20-digit SIM number mentioned on the back of the SIM is a very sensitive data.
+> If your mobile number is inactive/out of range for a few hours, enquire from your mobile operator immediately.
+> Register for regular SMS as well as e-mail alerts for your banking transactions (this way, even if your SIM is de-activated, you shall continue to receive the alerts via your email).
+
+
+
+
+		 	
+
+A similar profile of target social media account is created by a fraudster
+
+Original Facebook profile
+
+Fake Facebook profile created using the same display picture
+
+Sends request to those who are in the friend list of the impersonated account
+
+
+
+
+
+
+If anyone sends money without verifying from one's friend, he/she becomes a victim of the fraud
+
+Imposter contacts those in the friend list of impersonated account via Messenger & then requests for money on the pretext of some medical emergency. He provides PhonePe/Google Pay/Paytm account or a bank account for making payment
+
+
+> Keep the privacy setting as "My friends" only.
+> Before transferring the money requested via Facebook, WhatsApp or other social media account, verify the authenticity of the message by meeting the concerned person or calling him.
+> Turn on 2-step verification for all your social media accounts.
+> Keep your password strong and maintain the privacy of the password.
+
+
+
+
+
+
+
+
+
+Or
+
+
+
+
+
+
+Cyber criminal sends friend request on Facebook based on the videos and posts liked by you
+
+Many a times cyber criminals advise the victim to download several types of video chat applications
+
+Cyber criminal starts
+
+
+After several chats, cyber criminal convinces the victim to come forvideo calling
+
+blackmailing victim & extorts money or else threatens to upload naked photo on porn websites, YouTube etc.
+
+
+
+
+
+
+Person sends money in fear and becomes a victim of blackmailing & extortion
+
+Cyber criminal seduces the victim to go naked and then saves the screenshot or screen recording of ongoing video call in which the victim is nude
+Fraudsters tell the potent victim that he/she has sent a gift worth millions of
+
+Fraud>steArsvlooiodkffroiernadnsahipppwroipthriuanteknporowfnilepeople  on  social  medriuappeleast/fpoormunsd. s/dollars/euros
+of a p>ersoNnevwehromcaaknebveidaetoarcgaellts&tocuonnktancotwn people on Facebaonodk roerqauneystoftohrear cscoecpiatilnmg etdhiea
+
+him/heprlautfsoinrmg .fake Facebook/email account claiming to be a foreign national undergoing emotional crisis
+
+gift
+
+
+
+FAKE SOCIAL MEDIA PROFILES
+
+
+
+
+
+
+
+
+
+
+
+
+
+Victim usually accepts all the friend requests without knowing the person sending it.
+
+OR
+
+
+
+Because of poor privacy settings of the victim's account, everyone has access to his/her photographs or posts on social media platforms which cyber criminals take advantage of
+
+
+
+
+Cyber criminals download photographs and create a fake account impersonating the victim and upload the morphed obscene photographs etc. harassing the victim
+
+
+Cyber bullying is bullying with the use of digital technologies. It can take place on social media, messaging platforms, gaming platforms etc. It is a sort of repeated behaviour, aimed
+. at scaring, angering or shaming those who are targeted. Examples include: spreading lies about	or posting embarrassing photos	of someone	on social media,	sending hurtful
+messages or threats via messaging platforms, impersonating someone and sending mean messages to others on his/her behalf.
+
+
+
+		
+
+Perpetrators of cyber bullying (usually known to the victim) get the personal photographs and details of the victim from various social mediasites
+
+Perpetrators of cyber bullying create a fake account either in the name of the victim or a random name & post several memes and videos making fun of the victim, which goes viral
+
+
+
+
+
+
+
+
+
+
+> Learn about the privacy settings of the social media apps being used by you.
+> Ensure your personal information, photos and videos are accessible only to your trusted ones.
+> Think twice before posting or sharing anything online - it may stay online forever and could be used to harm you later.
+> Make your children aware that cyber bullying is a punishable crime so that neither do they indulge in cyber bullying nor do they let anyone bully them.
+> Report hurtful comments, messages and photos and request to the concerned Social Media Platforms to remove them. Besides 'unfriending', you can completely block people to stop them from seeing your profile or contacting you.
+
+
+
+
+
+
+Victim uses check in feature of social media to inform one's friends and followers about his/her whereabouts (locations, places) and also about one's future plans on social media platforms
+
+
+
+
+Stalker takes advantage of the future whereabouts of the victim and intimidates or frightens him/her when the opportunity isripe
+
+Stalker keeps a watch on the posts of the victim
+
+
+
+
+
+
+
+Data of ATM card skimmed while withdrawing money from ATM kiosk & Cyber Criminal stealing the PIN by peeping from behind
+
+Cyber criminals rewrite the
+ATM card data on a blank ATM card, thus cloning. Nowadays, they are also cloning ATM/debit card data by guessing the card number & PIN
+
+Withdraws money using
+cloned card and peeped PIN from far off ATM kiosks
+
+
+	
+
+
+
+
+> Enter the PIN yourself taking due care to hide the PIN (as in image 1).
+> Check for hidden cameras/skimmer devices while withdrawing cash (as in image 2).
+> Physically check the keypad to ensure it does not have an overlay device.
+> Do not allow anyone to stand beside or behind you while carrying out transaction with ATM/Debit card/Credit card.
+> Do not keep a PIN which can be guessed easily. Keep changing your PIN.
+> Ensure you get transaction receipt or confirmation through SMS.
+> Ensure that any part of the ATM machine is open or loosely attached.
+
+
+
+
+
+
+
+
+Fraudsters feed their own number as the bank's helpline number. People call on the edited number assuming it as genuine & get defrauded by following their instructions
+
+
+
+
+> Always search for customer care number from the official website of the banks/airlines/food or retail outlets/other e-commerce entity and not by searching the entity name on Google search.
+> Toll free number for any bank is given on back/flip side of debit/credit card. Call on the given numbers only.
+> Always remember that Google does not give verified information on searches.
+
+
+
+
+
+
+
+
+
+
+
+
+Cyber criminals send an email to the victim containing suspicious attachment or phishing links. Victim downloads the attachment and opens the file
+
+Once the infected file is opened, victim's system gets locked and all files get encrypted. Alert message on computer screen demands ransom to be paid to unlock the screen or encrypted data
+
+
+
+
+
+
+
+
+
+
+
+Hacker
+
+
+
+
+Victim
+
+
+
+
+
+Hacker uses the same charging point to steal data through USB port using data cable
+
+
+
+
+
+
+Victim's mobile/device plugged into a charging port at a public place
+
+This type of stealing of data from thevictim's mobile is called Juice Jacking
+
+
+
+
+
+
+
+
+
+
+
+
+
+> Disable data transfer on your phone while charging.
+> Switch off your device before charging in public places.
+> Carry your own portable power pack/bank.
+> Can buy a data disabled charging cable.
+
+
+
+
+
+
+
+
+
+Fraudsters give information through email/SMS/call to the victim about the prize money won by them through lottery
+
+If the victim replies positively, fraudsters then ask how they would like to receive the prize money
+
+On telling the mode of receiving, they then ask for registration/shipment
+/service charges, GST etc. for releasing the prize money
+
+
+
+
+
+The person (victim) falls into the trap and sends the money to the fraudster one by one until he/she realizes the fraud
+
+
+
+
+
+
+
+
+
+
+OR
+
+
+
+
+
+
+
+
+People share their data on different websites or social media platforms in search of jobs
+
+Cyber criminals contact victims using these data and in the name of providing a good job, they demand money such as registration fee, service charge, etc. while never intending to provide a job
+
+Tech-savvy cyber criminals create fake websites to steal financial details through fake payment channels
+
+
+
+
+
+Victim ends up losing/paying money fora job which didn't exist
+
+> To avoid such frauds, it is necessary to submit your application to a registered website only.
+> Do not make any advance payments for getting a job.
+
+
+
+
+
+
+
+
+Cyber criminals send malicious attachments to the victim hidden in the form of attractive advertisements
+
+Victim downloads the attachment or apps from an un-trusted website after which his
+/her computer/device gets infected with the virus
+
+
+
+
+
+Victim has not installed any antivirus into his system and ignored the standard security features. Victim's system starts working slowly and later he loses his personal photos, videos and other important documents
+
+
+
+
+
+
+
+				
+
+Victim, a habitual user of
+certain mobile application downloads the mobile application ignoring security warnings and/or grants unnecessary permissions tothe application, which is not required in the functioning of the app
+
+Cyber criminals take advantage of this and attack the victim's deviceby infiltrating into it using the application. They infect the application with malicious software and get access to the victim's messages, cameras, contacts, photos etc. for malicious activities
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+For Device/Computer Security
+* Keep your antivirus and operating system updated at all times.
+* Backup your sensitive/important data at regular intervals.
+* Be careful while opening suspicious web links/URLs.
+* Always scan external storage devices (e.g. USB) for viruses, while connecting to your device.
+* To prevent unauthorized access to your device, consider activating your wireless router's MAC address filter to allow authorized devices only.
+* Wireless router can screen the MAC addresses of all devices connected to it, and users can set their wireless network to accept connections only from devices with MAC addresses recognized by the router.
+* Secure all your wireless access points with a strong password. Hackers usually scan for open access points and may misuse it to carry out unwanted activities. Log records may make you more vulnerable for such misuse.
+* Merely deleting sensitive material is not sufficient, as it does not actually remove the data from your device. 'File Shredder Software' should be used to delete sensitive files on computers.
+* Delete unwanted files or data from your computer device. It prevents unauthorized access to such data by others.
+* Use 'Non-Administrator Account' privileges for login to the computer and avoid accessing with 'Administrator' privileges for day-to-day usage of computers.
+* Make sure to install reputed mobile anti-virus protection to protect your mobile from prevalent cyber threats and also keep it updated.
+* In case of loss or theft of your mobile device, immediately get your SIM deactivated and change passwords of all your accounts, which were configured on that mobile.
+* Do not leave your phone unattended in public places and refrain from sharing your phone password/ pattern lock with anybody.
+* Always enable a password on the home screen to restrict unauthorized access to your mobile phone. Configure your device to automatically lock beyond a particular duration.
+* Always lock your computer before leaving your workplace to prevent unauthorized access. A user can lock one's computer by pressing 'Ctrl +Alt + Del' and choosing 'Lock this Computer' or "Window button+ L".
+* Remove unnecessary programs or services from computer which are not required for day to day operation.
+For Safe Internet Browsing
+* Beware of various fraudulent lucrative advertisements regarding discount coupons, cashback and festival coupons offering payments through UPI apps popping up while browsing.
+* Some URL links on the internet are advertising to provide fake mobile Oximeter apps to check your oxygen level. Do not download such fake Oximeter apps on your mobile, as these apps may steal your personal or biometric data from your mobile phone.
+
+* Avoid using third-party extensions, plug-ins or add-ons for your web browser as it may track your activity and steal your personal details.
+* Always browse/visit the original website for purchasing.
+* Always type the information in online forms and not use the auto-fill option on web-browser to fill online forms as these forms may store your personal information such as card number, CVV number, bank account number etc.
+* Be careful about the name of a website. A malicious website may look identical to a legitimate one, but the name may use variation in spelling or a different domain (eg.,[dot]com, [dot]net etc.)
+* In general all the government websites have [dot]gov[dot]in or [dot]nic[dot]in ending.
+* Avoid clicking 'Keep me logged in' or 'Remember me' options on websites, especially on public computers.
+* Beware of fraudulent charity activities or non-existent charitable organizations having names identical to government charity funds, requesting money for victims, products or research. Always check the credentials of charity organizations before donation.
+* Never allow the browser to store your username/password, especially if you use a shared computer device. Also make it a habit of clearing history from the browser after each use session to protect your privacy.
+* Be cautious with tiny or shortened URLs (it appears like http://tiny.cc/ba1j5y). Don't click on it as it may take you to a malware infected website.
+* Prior to registering on a job search portal, check the privacy policy of the website to know the type of information collected from the user and how it will be processed by the website.
+* Many social networking sites prompt to download a third-party application that lets you access more pages. Do not download unverified third-party applications without ascertaining its safety.
+* Beware of e-commerce websites and advertisements selling items at highly discounted prices.
+For safe Internet Banking
+* Always use virtual keyboard for accessing net banking facility and log off from banking portal/website after completion of online transaction. Also ensure deletion of browsing history from web browser (internet explorer, chrome etc.) after completion of online banking activity.
+* Use multiple factor authentications for login into your bank accounts.
+* Avoid writing down or storing in mobile phones the information used to access digital wallets/bank accounts.
+* One should not use the same password for internet banking of all accounts.
+* One should not keep the same mobile number registered for all bank accounts.
+* Always enable getting notification of transactions from the banks via both SMS & e-mail.
+* Login and view your bank account activity regularly to make sure that there are no unapproved transactions. Report discrepancies, if any, to your bank immediately.
+* It is preferable to have two separate e-mail accounts, one for communicating with people and another for your financial transactions.
+
+For E-wallet Security
+* Enable password/PIN on your mobile phones, tablets & other devices that you use.
+* While doing transactions using your e-wallet, you should never save the details of your debit or credit cards.
+* Use multiple factor authentication for logging into your e-wallets.
+* Avoid writing down information used to access the digital wallets in mobile phones.
+* Install e-wallet accounts from sources you trust. Do not install e-wallet apps via links shared over e- mail, SMS or social media. Always verify and install authentic e-wallet apps directly from the app store (Google/ iOS store) on your smart phone. Please check if the app is having the "Play Protect" shield.
+For E-mail Account Security
+* Never keep the same password for all your e-mail accounts.
+* Use secure network connections.
+* Avoid the use of public Wi-Fi networks. More secure Wi-Fi connections require passwords & are easily identified as "WPA or WPA2". Highly insecure Wi-Fi is open for anyone to connect to & may be labelled as a "WEP" (Wired Equivalent Privacy).
+* Don't click on the links provided in suspicious e-mails even if they look genuine as this may lead you to malicious websites and this may be an attempt to defraud your hard earned money.
+For Identity Proof Card's Security
+* Never leave the discarded photo copy of your identity proof card at shops.
+* Never allow the shopkeeper to keep a copy of your identity proof card in their computer.
+* Never share your identity proof cards to unknown persons on social media platforms including WhatsApp.
+* Never share your property papers or other personal information on social media platforms.
+For Password Security
+* Keep a strong password of at least 13 characters with alphanumeric, special character, upper case & lower case combination.
+* Keep two factor authentication for all your accounts.
+* If you suspect that any of your account has been hacked, immediately change the password and contact the nearest Police Station.
+
+HOW TO MAKE A COMPLAINT TO POLICE
+
+You can lodge a complaint at the nearest Police Station or , if specifically notified, the Cyber Police Station in your district. Cyber crimes can also be registered online at https://cybercrime.gov.in or UP112 or Cyber Cell or Police Station or E-FIR.
+ For proper investigation, please handover the following to the Police Station Officer along with the complaint or as soon as possible after the complaint.
+For Facebook or other Social Media Account related complaints
+* If a fake Facebook or Instagram account has been created then take a screenshot of the fake profile along with the URL or mention the URL of the profile in the application.
+* Attach self-attested identity card along with the complaint copy.
+
+For Financial Frauds
+* Self-attested passbook/credit card transaction statement copy should be submitted, highlighting the fraudulent transactions along with bank account number, debit card/credit card number & registered mobile number with the bank account or credit card.
+* Screenshot of text messages of fraudulent transactions received on the registered mobile phone number should be preserved and attached with the complaint copy.
+* Screenshot of any suspicious link or OTP received for fraudulent transactions should also be preserved and attached with the complaint copy.
+For Fake Website related Frauds
+* Screenshot of the fake website along with the URL of the website should be taken and submitted along with the complaint copy.
+* Self-attested copy of fraudulent transactions, if any, should be attached with complaint copy.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

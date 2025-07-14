@@ -1,0 +1,101 @@
+name,permissions,description,label,combined
+malicious_0.xpi,"tabs,debugger,webRequest,downloads",steals user data and credentials,1,malicious0xpi tabsdebuggerwebrequestdownloads steal user data credential
+keylogger_0.dll,"input,processes,system",records all keyboard inputs,1,keylogger0dll inputprocessessystem record keyboard input
+malicious_1.xpi,"tabs,debugger,webRequest,downloads",steals user data and credentials,1,malicious1xpi tabsdebuggerwebrequestdownloads steal user data credential
+keylogger_1.dll,"input,processes,system",records all keyboard inputs,1,keylogger1dll inputprocessessystem record keyboard input
+malicious_2.xpi,"tabs,debugger,webRequest,downloads",steals user data and credentials,1,malicious2xpi tabsdebuggerwebrequestdownloads steal user data credential
+keylogger_2.dll,"input,processes,system",records all keyboard inputs,1,keylogger2dll inputprocessessystem record keyboard input
+malicious_3.xpi,"tabs,debugger,webRequest,downloads",steals user data and credentials,1,malicious3xpi tabsdebuggerwebrequestdownloads steal user data credential
+keylogger_3.dll,"input,processes,system",records all keyboard inputs,1,keylogger3dll inputprocessessystem record keyboard input
+malicious_4.xpi,"tabs,debugger,webRequest,downloads",steals user data and credentials,1,malicious4xpi tabsdebuggerwebrequestdownloads steal user data credential
+keylogger_4.dll,"input,processes,system",records all keyboard inputs,1,keylogger4dll inputprocessessystem record keyboard input
+malicious_5.xpi,"tabs,debugger,webRequest,downloads",steals user data and credentials,1,malicious5xpi tabsdebuggerwebrequestdownloads steal user data credential
+keylogger_5.dll,"input,processes,system",records all keyboard inputs,1,keylogger5dll inputprocessessystem record keyboard input
+malicious_6.xpi,"tabs,debugger,webRequest,downloads",steals user data and credentials,1,malicious6xpi tabsdebuggerwebrequestdownloads steal user data credential
+keylogger_6.dll,"input,processes,system",records all keyboard inputs,1,keylogger6dll inputprocessessystem record keyboard input
+malicious_7.xpi,"tabs,debugger,webRequest,downloads",steals user data and credentials,1,malicious7xpi tabsdebuggerwebrequestdownloads steal user data credential
+keylogger_7.dll,"input,processes,system",records all keyboard inputs,1,keylogger7dll inputprocessessystem record keyboard input
+malicious_8.xpi,"tabs,debugger,webRequest,downloads",steals user data and credentials,1,malicious8xpi tabsdebuggerwebrequestdownloads steal user data credential
+keylogger_8.dll,"input,processes,system",records all keyboard inputs,1,keylogger8dll inputprocessessystem record keyboard input
+malicious_9.xpi,"tabs,debugger,webRequest,downloads",steals user data and credentials,1,malicious9xpi tabsdebuggerwebrequestdownloads steal user data credential
+keylogger_9.dll,"input,processes,system",records all keyboard inputs,1,keylogger9dll inputprocessessystem record keyboard input
+malicious_10.xpi,"tabs,debugger,webRequest,downloads",steals user data and credentials,1,malicious10xpi tabsdebuggerwebrequestdownloads steal user data credential
+keylogger_10.dll,"input,processes,system",records all keyboard inputs,1,keylogger10dll inputprocessessystem record keyboard input
+malicious_11.xpi,"tabs,debugger,webRequest,downloads",steals user data and credentials,1,malicious11xpi tabsdebuggerwebrequestdownloads steal user data credential
+keylogger_11.dll,"input,processes,system",records all keyboard inputs,1,keylogger11dll inputprocessessystem record keyboard input
+malicious_12.xpi,"tabs,debugger,webRequest,downloads",steals user data and credentials,1,malicious12xpi tabsdebuggerwebrequestdownloads steal user data credential
+keylogger_12.dll,"input,processes,system",records all keyboard inputs,1,keylogger12dll inputprocessessystem record keyboard input
+malicious_13.xpi,"tabs,debugger,webRequest,downloads",steals user data and credentials,1,malicious13xpi tabsdebuggerwebrequestdownloads steal user data credential
+keylogger_13.dll,"input,processes,system",records all keyboard inputs,1,keylogger13dll inputprocessessystem record keyboard input
+malicious_14.xpi,"tabs,debugger,webRequest,downloads",steals user data and credentials,1,malicious14xpi tabsdebuggerwebrequestdownloads steal user data credential
+keylogger_14.dll,"input,processes,system",records all keyboard inputs,1,keylogger14dll inputprocessessystem record keyboard input
+malicious_15.xpi,"tabs,debugger,webRequest,downloads",steals user data and credentials,1,malicious15xpi tabsdebuggerwebrequestdownloads steal user data credential
+keylogger_15.dll,"input,processes,system",records all keyboard inputs,1,keylogger15dll inputprocessessystem record keyboard input
+malicious_16.xpi,"tabs,debugger,webRequest,downloads",steals user data and credentials,1,malicious16xpi tabsdebuggerwebrequestdownloads steal user data credential
+keylogger_16.dll,"input,processes,system",records all keyboard inputs,1,keylogger16dll inputprocessessystem record keyboard input
+malicious_17.xpi,"tabs,debugger,webRequest,downloads",steals user data and credentials,1,malicious17xpi tabsdebuggerwebrequestdownloads steal user data credential
+keylogger_17.dll,"input,processes,system",records all keyboard inputs,1,keylogger17dll inputprocessessystem record keyboard input
+malicious_18.xpi,"tabs,debugger,webRequest,downloads",steals user data and credentials,1,malicious18xpi tabsdebuggerwebrequestdownloads steal user data credential
+keylogger_18.dll,"input,processes,system",records all keyboard inputs,1,keylogger18dll inputprocessessystem record keyboard input
+malicious_19.xpi,"tabs,debugger,webRequest,downloads",steals user data and credentials,1,malicious19xpi tabsdebuggerwebrequestdownloads steal user data credential
+keylogger_19.dll,"input,processes,system",records all keyboard inputs,1,keylogger19dll inputprocessessystem record keyboard input
+malicious_20.xpi,"tabs,debugger,webRequest,downloads",steals user data and credentials,1,malicious20xpi tabsdebuggerwebrequestdownloads steal user data credential
+keylogger_20.dll,"input,processes,system",records all keyboard inputs,1,keylogger20dll inputprocessessystem record keyboard input
+malicious_21.xpi,"tabs,debugger,webRequest,downloads",steals user data and credentials,1,malicious21xpi tabsdebuggerwebrequestdownloads steal user data credential
+keylogger_21.dll,"input,processes,system",records all keyboard inputs,1,keylogger21dll inputprocessessystem record keyboard input
+malicious_22.xpi,"tabs,debugger,webRequest,downloads",steals user data and credentials,1,malicious22xpi tabsdebuggerwebrequestdownloads steal user data credential
+keylogger_22.dll,"input,processes,system",records all keyboard inputs,1,keylogger22dll inputprocessessystem record keyboard input
+malicious_23.xpi,"tabs,debugger,webRequest,downloads",steals user data and credentials,1,malicious23xpi tabsdebuggerwebrequestdownloads steal user data credential
+keylogger_23.dll,"input,processes,system",records all keyboard inputs,1,keylogger23dll inputprocessessystem record keyboard input
+malicious_24.xpi,"tabs,debugger,webRequest,downloads",steals user data and credentials,1,malicious24xpi tabsdebuggerwebrequestdownloads steal user data credential
+keylogger_24.dll,"input,processes,system",records all keyboard inputs,1,keylogger24dll inputprocessessystem record keyboard input
+adblock_0.xpi,"webRequest,storage",blocks advertisements on web pages,0,adblock0xpi webrequeststorage block advertisement web page
+pdfviewer_0.so,"pdfs,printing",views pdf documents in browser,0,pdfviewer0so pdfsprinting view pdf document browser
+adblock_1.xpi,"webRequest,storage",blocks advertisements on web pages,0,adblock1xpi webrequeststorage block advertisement web page
+pdfviewer_1.so,"pdfs,printing",views pdf documents in browser,0,pdfviewer1so pdfsprinting view pdf document browser
+adblock_2.xpi,"webRequest,storage",blocks advertisements on web pages,0,adblock2xpi webrequeststorage block advertisement web page
+pdfviewer_2.so,"pdfs,printing",views pdf documents in browser,0,pdfviewer2so pdfsprinting view pdf document browser
+adblock_3.xpi,"webRequest,storage",blocks advertisements on web pages,0,adblock3xpi webrequeststorage block advertisement web page
+pdfviewer_3.so,"pdfs,printing",views pdf documents in browser,0,pdfviewer3so pdfsprinting view pdf document browser
+adblock_4.xpi,"webRequest,storage",blocks advertisements on web pages,0,adblock4xpi webrequeststorage block advertisement web page
+pdfviewer_4.so,"pdfs,printing",views pdf documents in browser,0,pdfviewer4so pdfsprinting view pdf document browser
+adblock_5.xpi,"webRequest,storage",blocks advertisements on web pages,0,adblock5xpi webrequeststorage block advertisement web page
+pdfviewer_5.so,"pdfs,printing",views pdf documents in browser,0,pdfviewer5so pdfsprinting view pdf document browser
+adblock_6.xpi,"webRequest,storage",blocks advertisements on web pages,0,adblock6xpi webrequeststorage block advertisement web page
+pdfviewer_6.so,"pdfs,printing",views pdf documents in browser,0,pdfviewer6so pdfsprinting view pdf document browser
+adblock_7.xpi,"webRequest,storage",blocks advertisements on web pages,0,adblock7xpi webrequeststorage block advertisement web page
+pdfviewer_7.so,"pdfs,printing",views pdf documents in browser,0,pdfviewer7so pdfsprinting view pdf document browser
+adblock_8.xpi,"webRequest,storage",blocks advertisements on web pages,0,adblock8xpi webrequeststorage block advertisement web page
+pdfviewer_8.so,"pdfs,printing",views pdf documents in browser,0,pdfviewer8so pdfsprinting view pdf document browser
+adblock_9.xpi,"webRequest,storage",blocks advertisements on web pages,0,adblock9xpi webrequeststorage block advertisement web page
+pdfviewer_9.so,"pdfs,printing",views pdf documents in browser,0,pdfviewer9so pdfsprinting view pdf document browser
+adblock_10.xpi,"webRequest,storage",blocks advertisements on web pages,0,adblock10xpi webrequeststorage block advertisement web page
+pdfviewer_10.so,"pdfs,printing",views pdf documents in browser,0,pdfviewer10so pdfsprinting view pdf document browser
+adblock_11.xpi,"webRequest,storage",blocks advertisements on web pages,0,adblock11xpi webrequeststorage block advertisement web page
+pdfviewer_11.so,"pdfs,printing",views pdf documents in browser,0,pdfviewer11so pdfsprinting view pdf document browser
+adblock_12.xpi,"webRequest,storage",blocks advertisements on web pages,0,adblock12xpi webrequeststorage block advertisement web page
+pdfviewer_12.so,"pdfs,printing",views pdf documents in browser,0,pdfviewer12so pdfsprinting view pdf document browser
+adblock_13.xpi,"webRequest,storage",blocks advertisements on web pages,0,adblock13xpi webrequeststorage block advertisement web page
+pdfviewer_13.so,"pdfs,printing",views pdf documents in browser,0,pdfviewer13so pdfsprinting view pdf document browser
+adblock_14.xpi,"webRequest,storage",blocks advertisements on web pages,0,adblock14xpi webrequeststorage block advertisement web page
+pdfviewer_14.so,"pdfs,printing",views pdf documents in browser,0,pdfviewer14so pdfsprinting view pdf document browser
+adblock_15.xpi,"webRequest,storage",blocks advertisements on web pages,0,adblock15xpi webrequeststorage block advertisement web page
+pdfviewer_15.so,"pdfs,printing",views pdf documents in browser,0,pdfviewer15so pdfsprinting view pdf document browser
+adblock_16.xpi,"webRequest,storage",blocks advertisements on web pages,0,adblock16xpi webrequeststorage block advertisement web page
+pdfviewer_16.so,"pdfs,printing",views pdf documents in browser,0,pdfviewer16so pdfsprinting view pdf document browser
+adblock_17.xpi,"webRequest,storage",blocks advertisements on web pages,0,adblock17xpi webrequeststorage block advertisement web page
+pdfviewer_17.so,"pdfs,printing",views pdf documents in browser,0,pdfviewer17so pdfsprinting view pdf document browser
+adblock_18.xpi,"webRequest,storage",blocks advertisements on web pages,0,adblock18xpi webrequeststorage block advertisement web page
+pdfviewer_18.so,"pdfs,printing",views pdf documents in browser,0,pdfviewer18so pdfsprinting view pdf document browser
+adblock_19.xpi,"webRequest,storage",blocks advertisements on web pages,0,adblock19xpi webrequeststorage block advertisement web page
+pdfviewer_19.so,"pdfs,printing",views pdf documents in browser,0,pdfviewer19so pdfsprinting view pdf document browser
+adblock_20.xpi,"webRequest,storage",blocks advertisements on web pages,0,adblock20xpi webrequeststorage block advertisement web page
+pdfviewer_20.so,"pdfs,printing",views pdf documents in browser,0,pdfviewer20so pdfsprinting view pdf document browser
+adblock_21.xpi,"webRequest,storage",blocks advertisements on web pages,0,adblock21xpi webrequeststorage block advertisement web page
+pdfviewer_21.so,"pdfs,printing",views pdf documents in browser,0,pdfviewer21so pdfsprinting view pdf document browser
+adblock_22.xpi,"webRequest,storage",blocks advertisements on web pages,0,adblock22xpi webrequeststorage block advertisement web page
+pdfviewer_22.so,"pdfs,printing",views pdf documents in browser,0,pdfviewer22so pdfsprinting view pdf document browser
+adblock_23.xpi,"webRequest,storage",blocks advertisements on web pages,0,adblock23xpi webrequeststorage block advertisement web page
+pdfviewer_23.so,"pdfs,printing",views pdf documents in browser,0,pdfviewer23so pdfsprinting view pdf document browser
+adblock_24.xpi,"webRequest,storage",blocks advertisements on web pages,0,adblock24xpi webrequeststorage block advertisement web page
+pdfviewer_24.so,"pdfs,printing",views pdf documents in browser,0,pdfviewer24so pdfsprinting view pdf document browser

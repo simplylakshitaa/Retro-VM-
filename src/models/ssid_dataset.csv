@@ -1,0 +1,14 @@
+ssid,label,length,has_special,has_digit,has_upper,is_common,is_manufacturer
+default,1,7,0,0,0,1,0
+linksys,1,7,0,0,0,0,1
+netgear,1,7,0,0,0,0,1
+admin,1,5,0,0,0,1,0
+password,1,8,0,0,0,1,0
+wifi123,1,7,0,1,0,0,0
+homewifi,1,8,0,0,0,0,0
+12345678,1,8,0,1,0,0,0
+xK7#9pL!2q,0,10,1,1,1,0,0
+8Hj*3mN$5v,0,10,1,1,1,0,0
+pR9@2tY6#k,0,10,1,1,1,0,0
+mY5^sEc8&rE,0,11,1,1,1,0,0
+n3T#w0Rk*9,0,10,1,1,1,0,0
